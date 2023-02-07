@@ -20,6 +20,8 @@ Enum
 
 
 객체 생성 하기, 객체 생성하지 않고 메서드 호출하기
+
+
 enum class Difficulty {
     EASY, MEDIUM, HARD
 }
