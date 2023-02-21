@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/48954288/220216384-9acc3c3f-c541-4923-8997-a75c863f5320.png)
 
 - 모델 데이터 클래스 생성
-- 
+
 ![image](https://user-images.githubusercontent.com/48954288/220216596-59904bd8-a90f-4140-845c-0a15630e3b9d.png)
 
 - Datasource 클래스 파일 생성
@@ -36,4 +36,20 @@
 - AffirmationApp 함수에서 앞의 Datasource 클래스의 메소드로 Data불러옴
 
 ![image](https://user-images.githubusercontent.com/48954288/220216800-ee7efac9-4979-410d-8e0e-61b590774d32.png)
+
+- 실행
+
+![image](https://user-images.githubusercontent.com/48954288/220217419-8c7c2ab6-b2ed-4836-b1ca-5c1f90fb8a76.png)
+
+
+### Courses
+- 위의 데이터 파일, lazyColumn 활용하기
+- GridCells.Fixed(Int)를 사용하여 lazy당 2개의 card가 놓일 수 있게 고정
+
+![image](https://user-images.githubusercontent.com/48954288/220217743-c74e82de-4557-4a7a-8c94-d53131a4b601.png)
+
+### Woof
+- MaterialTheme 수정을 통해 앱에 색감, font 수정
+
+![image](https://user-images.githubusercontent.com/48954288/220217842-b33c69fd-0a45-4b6a-a857-e8b1d4ef3b2c.png)
 
